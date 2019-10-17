@@ -8,7 +8,7 @@ output:
 ---
 
 # This is Jeff's awesome website
-you can learn about me [here](About Me.html).
+you can learn about me [here](about.html).
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
