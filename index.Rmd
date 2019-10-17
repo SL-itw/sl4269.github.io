@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+l
+# Let's add some links
+
+i often use [google](googl.com) to do data science
+
+##lets add an image
+here's my cat:
+![](IMG_20181128_151135.jpg)
