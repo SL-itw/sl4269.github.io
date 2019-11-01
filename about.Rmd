@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Education
+##Education
 Columbia University Mailman School of Public Health:
 Master of Science (MS) in Biostatistics Candidate (May 2021)
 
@@ -18,3 +18,26 @@ Bachelor of Science (BS) in Biology (Mathematics Minor) (June 2019)
 
 The City University of New York (CUNY) Medgar Evers College:
 Associates of Science (AS) (June 2016)
+
+##Skils
+
+Statistical Software/Computer Programming: R, R-Studio, MAPEL SOFT, Statistical Analysis Software (SAS), REDCap
+
+Statistics & Research Methodology: Research Methodology: Analysis of Longitudinal Data, Survival Analysis, Analysis of Categorical Data, Applied Linear Models, Statistical Inference, Applied Biostatistics in Clinical Trials, Health Economics, Time series Analysis.
+
+##Publicaions
+
+1. Jessica Robinson-Papp, Alexandra Nmashie, Elizabeth Pedowitz, Mary Catherine George, Sandeep Sharma, Jacinta
+Murray, Emma K. T. Benn, Steven A. Lawrence, Josef Machac, Sherif Heiba, Seunghee Kim-Schulze, Allison Navis,
+Bani Chander Roland, Susan Morgello. (2019) The effect of pyridostigmine on gastrointestinal function and inflammatory
+markers in HIV associated autonomic neuropathy. Journal of NeuroVirology 25(4): 551-559.
+
+2. Michelle Odlum, Danielle Black, Sunmoo Yoon, Cassidy Maher, Steven Lawrence, Jennel Osborne. (2019) Exploring
+HIV Concern in A Population of Dominican American Women Midlife and Older. BMC Public Health (In Press)
+
+3. Steven Lawrence and Jean Jean-Michel. Combinatorial mathematics used to solve fundamental biological
+problems. (In Preparation)
+
+4. Steven Lawrence, Bian Liu, Richa Deshpande, Hector Moran, Eleanor Holder, Florentino Caetano Dos Santos, Irmina
+Michalek, Sharon Gordon, Liangyuan Hu, Emma K. T. Benn. Estimating the Geographic Distribution of Skin Bleaching
+in the US: an application of query search surveillance using Google Trends Data. (In Preparation)
