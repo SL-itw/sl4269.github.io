@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Resume"
 author: "Steven Lawrence"
 date: "October 17, 2019"
 output: html_document
@@ -9,4 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#ME ME ME 
+#Education
+Columbia University Mailman School of Public Health:
+Master of Science (MS) in Biostatistics Candidate (May 2021)
+
+The City University of New York (CUNY) Medgar Evers College:
+Bachelor of Science (BS) in Biology (Mathematics Minor) (June 2019)
+
+The City University of New York (CUNY) Medgar Evers College:
+Associates of Science (AS) (June 2016)
