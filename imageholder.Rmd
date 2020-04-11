@@ -14,3 +14,4 @@ output:
 ![](zipsmap_age_caserate.svg)
 
 ![](zipsmap_housing_caserate.svg)
+![](zipsmap_ses_caserate.svg)
