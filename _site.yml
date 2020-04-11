@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Resume"
       href: about.html
-    - text: "imageholder"
+    - text: "Imageholder"
       href: imageholder.html
     - icon: fa-envelope fa-lg
       href: mailto:sl4269@cumc.columbia.edu
