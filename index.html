@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -237,6 +236,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -265,6 +265,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -350,6 +356,9 @@ div.tocify {
   <a href="about.html">Resume</a>
 </li>
 <li>
+  <a href="imageholder.html">Imageholder</a>
+</li>
+<li>
   <a href="mailto:sl4269@cumc.columbia.edu">
     <span class="fa fa-envelope fa-lg"></span>
      
@@ -376,13 +385,11 @@ div.tocify {
 
 
 <p>you can veiw my resume <a href="about.html">here</a>.</p>
-<div class="figure">
-<img src="profile_picture.jpg" />
-
-</div>
+<p><img src="profile_picture.jpg" /></p>
 <div id="brief-bio" class="section level2">
 <h2>Brief Bio</h2>
 <p>Currently, I am a first-year graduate student in the MS in Biostatistics program at Columbia University Mailman School of Public Health. I am also a research intern at the Center for Biostatistics at the Icahn School of Medicine at Mount Sinai under the mentorship of Dr. Emma Benn and Dr. Liangyuan Hu. I am interested in problems that involve but not limited to <a href="https://towardsdatascience.com/almost-everything-you-need-to-know-about-time-series-860241bdc578">time series analysis</a>, <a href="https://www.displayr.com/what-is-functional-data-analysis/">functional data analysis</a>, and <a href="trends.google.com">google trend data</a>.</p>
+<p>tempory holder for images of for shiny projects images <a href="imageholder.html">here</a>.</p>
 </div>
 
 
