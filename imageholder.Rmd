@@ -17,3 +17,5 @@ output:
 ![](zipsmap_UHF_Hispanicpctalone.svg)
 
 ![](zipsmap_UHF_unemployed.svg)
+
+![](zipsmap_UHF_whitepct.svg)
