@@ -11,7 +11,9 @@ output:
 
 ![](zipsmap_race_caserate.svg)
 
-![](zipsmap_age_caserate.svg)
+![](zipsmap_UHF_Blackpct.svg)
 
-![](zipsmap_housing_caserate.svg)
-![](zipsmap_ses_caserate.svg)
+![](zipsmap_UHF_Foreign-Born.svg)
+![](zipsmap_UHF_Hispanicpctalone.svg)
+
+![](zipsmap_UHF_unemployed.svg)
