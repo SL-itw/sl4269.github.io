@@ -9,13 +9,10 @@ output:
 ---
 
 
-![](zipsmap_race_caserate.svg)
-
 ![](zipsmap_UHF_Blackpct.svg)
 
 ![](zipsmap_UHF_Foreign-Born.svg)
-![](zipsmap_UHF_Hispanicpctalone.svg)
-
-![](zipsmap_UHF_unemployed.svg)
 
 ![](zipsmap_UHF_whitepct.svg)
+
+![](zipsmap_UHF_fpm2.5.svg)
