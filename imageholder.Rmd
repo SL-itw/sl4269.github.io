@@ -18,3 +18,9 @@ output:
 ![](zipsmap_UHF_fpm2.5.svg)
 
 ![](zipsmap_UHF_COPD.svg)
+
+
+
+![](zipsmap_UHF_Hispanicpctalone.svg)
+
+![](zipsmap_UHF_RBHH.svg)
