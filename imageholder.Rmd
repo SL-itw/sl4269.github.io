@@ -24,3 +24,6 @@ output:
 ![](zipsmap_UHF_Hispanicpctalone.svg)
 
 ![](zipsmap_UHF_RBHH.svg)
+
+
+![](zipsmap_UHF_crowding.svg)
