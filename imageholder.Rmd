@@ -11,7 +11,7 @@ output:
 
 ![](zipsmap_UHF_Blackpct.svg)
 
-![](zipsmap_UHF_Foreign-Born.svg)
+![](zipsmap_UHF_caserate.svg)
 
 ![](zipsmap_UHF_whitepct.svg)
 
