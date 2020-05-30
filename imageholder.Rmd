@@ -9,9 +9,9 @@ output:
 ---
 
 
-![](zipsmap_UHF_Blackpct.svg)
+![](zipsmap_Blackpct.png)
 
-![](zipsmap_UHF_caserate.svg)
+![](zipsmap_Blackpct.jpg)
 
 ![](zipsmap_UHF_Hispanicpctalone.svg)
 
