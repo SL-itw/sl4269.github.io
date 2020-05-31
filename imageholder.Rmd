@@ -11,7 +11,7 @@ output:
 
 ![](zipsmap_Blackpct.png)
 
-![](zipsmap_Blackpct.jpg)
+![](zipsmap_Hispanicpct.png)
 
 ![](zipsmap_UHF_Hispanicpctalone.svg)
 
