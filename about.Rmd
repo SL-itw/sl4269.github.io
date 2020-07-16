@@ -43,6 +43,7 @@ Statistics & Research Methodology: Time series, Mediation, and Heart Rate Variab
 ## Relevant course work: 
 
 Courcera: Time Series Analysis
+
 Cources: Statistical genetic models, Machine Learning 
 
 ## Publicaions
