@@ -23,7 +23,7 @@ Associates of Science (AS) (June 2016)
 
 Statistical Software/Computer Programming: R, R-Studio, MAPEL SOFT, Statistical Analysis Software (SAS), REDCap
 
-Statistics & Research Methodology: Time series, Mediation, and Heart Variability analysis. 
+Statistics & Research Methodology: Time series, Mediation, and Heart Rate Variability analysis. 
 
 ## Experience
 1.  Teacher assistant at the R studio conference for a time series workshop 
