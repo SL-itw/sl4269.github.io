@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##Education
+## Education
 Columbia University Mailman School of Public Health:
 Master of Science (MS) in Biostatistics Candidate (May 2021)
 
@@ -19,13 +19,33 @@ Bachelor of Science (BS) in Biology (Mathematics Minor) (June 2019)
 The City University of New York (CUNY) Medgar Evers College:
 Associates of Science (AS) (June 2016)
 
-##Skils
+## Skils
 
 Statistical Software/Computer Programming: R, R-Studio, MAPEL SOFT, Statistical Analysis Software (SAS), REDCap
 
-Statistics & Research Methodology: Research Methodology: Analysis of Longitudinal Data, Survival Analysis, Analysis of Categorical Data, Applied Linear Models, Statistical Inference, Applied Biostatistics in Clinical Trials, Health Economics, Time series Analysis.
+Statistics & Research Methodology: Time series, Mediation, and Heart Variability analysis. 
 
-##Publicaions
+## Experience
+1.  Teacher assistant at the R studio conference for a time series workshop 
+2.  Teacher assistant at ENAR Fostering Diversity Workshop 
+3.  Served on the committe for assessing the racial climate of the Biostatistic deparment
+4.  Consultant to Mount Sinai's Neurology Department. 
+5.  Graduate Research Assistant at the Center for Scientific Diversity at Mount Sinai
+
+## Project Highlights
+
+1. Geographic Distribution and temporal analysis of Google Trend Data using Skin Bleashing queries as a proxy for its behavior. 
+
+2. Honorary mention for bivariate visualizations from This Is Statistics (ASA) data challenge to address the Opioid epidemic. 
+
+
+
+## Relevant course work: 
+
+Courcera: Time Series Analysis
+Cources: Statistical genetic models, Machine Learning 
+
+## Publicaions
 
 1. Jessica Robinson-Papp, Alexandra Nmashie, Elizabeth Pedowitz, Mary Catherine George, Sandeep Sharma, Jacinta
 Murray, Emma K. T. Benn, Steven A. Lawrence, Josef Machac, Sherif Heiba, Seunghee Kim-Schulze, Allison Navis,
