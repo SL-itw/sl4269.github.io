@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 author: "Steven Lawrence"
-date: "October 17, 2019"
+date: "July 16, 2020"
 output: html_document
 ---
 
