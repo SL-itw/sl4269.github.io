@@ -15,5 +15,5 @@ you can veiw my resume [here](about.html).
 
 ## Brief Bio
 Steven Lawrence is a graduate of CUNY Medgar Evers College with a bachelors in Biology and minor in Mathematics. He is currently a second year Masters student in the Biostatistics program at Columbia University Mailman School of Public Health.  Being introduced to disparities analytics while volunteering at Mount Sinai, Steven has developed a passion for working with time series data, visualizations and consulting. He represents students in a committee of academics at Columbia formed to analyzed the departmental climate on racial discrimination.  As part of the Center for Scientific Diversity Steven functions as a graduate research assistant.  His goal is to continue to make strides as a biostatistician and to contribute to diversity by helping to educate the next generation of underrepresented minorities in STEM.  
-tempory holder for images of for shiny projects
+
 
